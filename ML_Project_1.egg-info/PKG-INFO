@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ML-Project-1
+Version: 0.0.1
+Author: Anvai Shrivastava
+Author-email: anvaishrivastava@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
