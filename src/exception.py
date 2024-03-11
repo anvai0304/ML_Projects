@@ -1,6 +1,6 @@
 # Exception Handling
 import sys
-import logging
+from src.logging import logging
 
 def error_show(error,error_detail:sys):
     exc_tb = error_detail.exc_info()
